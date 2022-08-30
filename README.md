@@ -47,4 +47,35 @@
 
 </p>
 
+##Live pages :
+
+<p align="left">
+
+Canteen Management system :
+https://error404-web.github.io/classroomcanteen/
+
+Portfolio :
+https://error404-web.github.io/arjunkumar.github.io/
+
+Text editor operations c :
+https://github.com/ERROR404-WEB/TextEditorOperations
+
+Gallery web page:
+https://error404-web.github.io/newcapturedmoments.github.io/
+
+College Landing page :
+https://error404-web.github.io/viit.github.io/
+
+Calculator :
+https://error404-web.github.io/letscalculate/
+
+The simon game : 
+https://error404-web.github.io/thesimongame/
+
+Dice Game :
+https://error404-web.github.io/dicegame/
+
+Drum Kit :
+https://error404-web.github.io/drumkit/
+</p>
 
