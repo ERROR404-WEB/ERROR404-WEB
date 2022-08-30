@@ -51,31 +51,31 @@
 
 <p align="left">
 
--Canteen Management system :
+- Canteen Management system :
 https://error404-web.github.io/classroomcanteen/
 
--Portfolio :
+- Portfolio :
 https://error404-web.github.io/arjunkumar.github.io/
 
--Text editor operations c :
+- Text editor operations c :
 https://github.com/ERROR404-WEB/TextEditorOperations
 
--Gallery web page:
+- Gallery web page:
 https://error404-web.github.io/newcapturedmoments.github.io/
 
--College Landing page :
+- College Landing page :
 https://error404-web.github.io/viit.github.io/
 
--Calculator :
+- Calculator :
 https://error404-web.github.io/letscalculate/
 
--The simon game : 
+- The simon game : 
 https://error404-web.github.io/thesimongame/
 
--Dice Game :
+- Dice Game :
 https://error404-web.github.io/dicegame/
 
--Drum Kit :
+- Drum Kit :
 https://error404-web.github.io/drumkit/
 </p>
 
